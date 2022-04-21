@@ -1,5 +1,4 @@
-<script type='text/javascript'>
-  // <![CDATA[
+
 (function($){
 
 	jQuery.fn.flexymenu = function(options){
@@ -196,5 +195,3 @@
 	
 }(jQuery));
 
-    //]]>
-</script>
